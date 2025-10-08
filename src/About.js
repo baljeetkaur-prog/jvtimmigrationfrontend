@@ -38,7 +38,7 @@ const About = () => {
           <div className="abouts-left">
             <h2>
               <span className="abouts-yellow-bar"></span>
-              Helping the Students to Build a Promising
+              Helping the Students to Build a Promising Career
             </h2>
             <p>
               The success story of JVT Immigration Pvt Ltd started in the year 2006 when the venture
